@@ -12,21 +12,11 @@ body {
 	width:750px;
 	text-align:center;
 	margin:auto;
+	color: #0f0f0f;
 }
 
-.address {
-	margin-top: 40px;
-	color: #706f74;
-	text-align:center;
-	font-size: 12px;
-}
-
-.smallFont {
-	line-height:20px;
-	font-size: 10px;
-}
 
 a, a:hover, a:active, a:focus, a:visited {
-	color: #1976a2;
+	color: #FF0000;
 	text-decoration: none;
 }
