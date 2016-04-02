@@ -14,9 +14,3 @@ body {
 	margin:auto;
 	color: #FF0000;
 }
-
-
-a, a:hover, a:active, a:focus, a:visited {
-	color: #FF0000;
-	text-decoration: none;
-}
